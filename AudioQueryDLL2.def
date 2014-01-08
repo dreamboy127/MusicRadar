@@ -1,0 +1,7 @@
+LIBRARY      "AudioQueryDLL2"
+
+EXPORTS
+	AQ2_CreatFPBase
+	AQ2_LoadFPBase
+	AQ2_FPQuery_Buffer
+	AQ2_FPQuery_File
